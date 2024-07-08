@@ -1,0 +1,106 @@
+[- 2.3.9 -]
+[added] Revamped settings.xml and added strings.po
+
+[- 2.3.8 -]
+[added] support to play mpd streams
+
+[- 2.3.7 -]
+[added] fix for runtime error in channel list
+
+[- 2.3.6 -]
+[added] language filter
+
+[- 2.3.5 -]
+[added] handle playback exceptions
+[added] remove unused code
+[added] save mobile no automatically on login
+[added] added request dependency for lower version
+[added] revert inputstreamhelper dependency version
+
+[- 2.3.4 -]
+[added] AAC multi-audio fix (3rd Jun 2023)
+[added] Genres selection in Settings with Languages
+[added] EPG Source URL editable in Settings
+[added] Settings sections rearranged, removed 'Welcome-donate' popup.
+
+[- 2.3.3 -]
+[added] updated epg url
+[added] set epg cache to false
+[added] updset useInputstreamAdaptiveforHls to true
+
+[- 2.3.2 -]
+[added] generate playlist is off by default
+
+[- 2.3.1 -]
+[added] caching of reponses
+
+[- 2.3.0 -]
+[added] more extra channels
+[added] inputstream adaptive as a dependency 
+
+[- 2.2.0 -]
+[fixed] Bugs related to playback
+[added] Login with OTP
+
+[- 2.1.0 -]
+
+[added] Kodi Matrix support
+[added] Star channels support
+
+[- 2.0.14 -]
+
+[added] Featured Content
+
+[- 2.0.13 -]
+
+[added] Web login
+
+[- 2.0.0 -]
+
+[fixed] All major issues related to playback almost solved
+[added] Categorized by Language 
+[added] Filter channels by specific language in genre. (from settings)
+
+[- 1.0.8-2 -]
+
+[fixed] jio server issue (minor)
+
+[- 1.0.8 -]
+
+[added] Star sports channels are working now #3 (major)
+[added] Catchup support for upto 7 days of shows (major)
+[added] categories icons (minor)
+
+[- 1.0.7 -]
+
+[added] Proxy service to improve quality of channels (major)
+
+[- 1.0.6 -]
+
+[added] Changed whole code base to kodi friendly and improved perfomace (major)
+[fixed] Star channels were not working (minor)
+
+[- 1.0.5 -]
+
+[added] Improved performace by removing non-sense code (minor)
+[fixed] PVR setup setting bugs (minor)
+
+[- 1.0.4 -]
+
+[fixed] PVR setup setting (minor)
+
+[- 1.0.3 -]
+
+Initial public
+
+[- 1.0.2 -]
+
+Initial public
+
+[- 1.0.1 -]
+
+Initial public
+
+[- 1.0.0 -]
+
+Initial development
