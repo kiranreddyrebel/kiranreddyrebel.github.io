@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kiranreddyrebel" name="kiranreddyrebel Repository" version="2.0.1" provider-name="kiranreddyrebel">
+    <extension point="xbmc.addon.repository" name="kiranreddyrebel Repository">
+        <dir minversion="19.0">
+            <info compressed="false">https://kiranreddyrebel.github.io/addons.xml</info>
+            <checksum>https://kiranreddyrebel.github.io/addons.xml.md5</checksum>
+            <datadir zip="true">https://kiranreddyrebel.github.io/Zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>kiranreddyrebel Repository for Kodi</summary>
+        <description>A Repository for Streaming Add-ons of Indian OTT Providers</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <clearlogo>icon.png</clearlogo>
+        </assets>
+    </extension>
+</addon>
