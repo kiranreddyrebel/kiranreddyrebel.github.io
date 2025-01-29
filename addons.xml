@@ -24,6 +24,8 @@
             <email>kiranreddyrebel@gmail.com</email>
             <source>https://github.com/kiranreddyrebel/plugin.video.jiotv</source>
             <news>
+		[- 2.3.13 -]
+		[added] Updated new epg.xml.gz link
 		[- 2.3.12 -]
 		[added] Fixed User-agent to LYF jio device. Thanks to Users in repo for reporting.
 		[- 2.3.11 -]
