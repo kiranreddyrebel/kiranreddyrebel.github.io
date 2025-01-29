@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-    <addon id="plugin.video.jiotv" name="JioTV" version="2.3.12" provider-name="kiranreddyrebel">
+    <addon id="plugin.video.jiotv" name="JioTV" version="2.3.13" provider-name="kiranreddyrebel">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.codequick" version="1.0.2" />
