@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-    <addon id="plugin.video.jiotv" name="JioTV" version="2.3.15" provider-name="kiranreddyrebel">
+    <addon id="plugin.video.jiotv" name="JioTV" version="2.3.16" provider-name="kiranreddyrebel">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.codequick" version="1.0.2" />
@@ -24,6 +24,8 @@
             <email>kiranreddyrebel@gmail.com</email>
             <source>https://github.com/kiranreddyrebel/plugin.video.jiotv</source>
             <news>
+		[- 2.3.16 -]
+		[added] improved zee channels and removed proxy way for faster. No crash
 		[- 2.3.15 -]
 		[added] implemented proxy to fetch zee cookie and use it for zee channels
 		[- 2.3.14 -]
