@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-    <addon id="plugin.video.jiotv" name="JioTV" version="2.3.17" provider-name="kiranreddyrebel">
+    <addon id="plugin.video.jiotv" name="JioTV" version="2.3.18" provider-name="kiranreddyrebel">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.codequick" version="1.0.2" />
@@ -24,6 +24,8 @@
             <email>kiranreddyrebel@gmail.com</email>
             <source>https://github.com/kiranreddyrebel/plugin.video.jiotv</source>
             <news>
+		[- 2.3.18 -]
+	    [added] Added Free channels only which is available in Zee5
 		[- 2.3.17 -]
         [added] removed Zee but fixed all channels in jio. Every channel will work now.
 		[- 2.3.16 -]
